@@ -1,10 +1,10 @@
-# LeetCode Problems and Solutions
+# Coding Problems and Solutions
 
-A comprehensive collection of LeetCode problems with detailed explanations and Java solutions.
+A comprehensive collection of LeetCode & HackerRank problems with detailed explanations and Java solutions.
 
 ## 📊 Statistics
-- **Total Problems:** 0 (In Progress)
-- **Easy:** 0 | **Medium:** 0 | **Hard:** 0
+- **Total Problems:** 2 (In Progress)
+- **Easy:** 1 | **Medium:** 1 | **Hard:** 0
 
 ## 🗂️ Organization
 Problems are organized by difficulty level and include:
