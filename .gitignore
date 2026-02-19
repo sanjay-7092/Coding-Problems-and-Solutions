@@ -4,4 +4,4 @@
 .vscode/
 .idea/
 target/
-.out/
+out/
